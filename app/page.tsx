@@ -46,7 +46,7 @@ const Home = () => {
               'leading-[48px] xs:leading-[64px] text-4xl xs:text-6xl font-normal w-full h-full xl:max-w-[37.5rem] pr-20 xl:ml-auto z-10 2xs:pl-8 xs:pl-32 xl:pl-0'
             }
           >
-            <b> Global open source data</b> enabling local innovation
+            <b> Doing a change to the Global open source data</b> enabling local innovation
           </Typography>
         </Box>
         <Box
